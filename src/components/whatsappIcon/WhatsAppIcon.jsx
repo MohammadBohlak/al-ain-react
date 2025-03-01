@@ -27,7 +27,7 @@ const WhatsAppButton = styled.a`
 const WhatsAppIcon = () => {
   return (
     <WhatsAppButton
-      href="https://wa.me/+963998026793" 
+      href="https://wa.me/+963952347334" 
       target="_blank" 
       rel="noopener noreferrer" 
       aria-label="تواصل معنا عبر واتساب" 
