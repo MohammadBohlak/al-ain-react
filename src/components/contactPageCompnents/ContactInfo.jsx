@@ -13,21 +13,22 @@ const ContactInfo = () => {
         <BoxInfo
           data={{
             title: "العنوان",
-            text: "نعمل في جميع أنحاء الإمارات العربية المتحدة, مع وجود فرق ميدانية في أبو ظبي, دبي, والعين.",
+            // text: "نعمل في جميع أنحاء الإمارات العربية المتحدة, مع وجود فرق ميدانية في أبو ظبي, دبي, والعين.",
+            text: "السعودية",
             icon: <FaLocationDot/>,
           }}
         />
         <BoxInfo
           data={{
             title: "الهاتف",
-            text: "+963 998 026 793",
+            text: "+966 55 166 3559",
             icon: <FaPhoneAlt/>,
           }}
         />
         <BoxInfo
           data={{
             title: "البريد الإلكتروني",
-            text: "info@alain-modern.com",
+            text: "info@al3een.net",
             icon: <MdEmail/>,
           }}
         />
